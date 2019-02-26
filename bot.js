@@ -40,3 +40,8 @@ client.user.setGame(`#help |  `,"https://www.twitch.tv/7alabygamer98")
   console.log('')
   console.log('')
 });
+
+
+
+
+client.login(process.env.BOT_TOKEN);
